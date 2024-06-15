@@ -1,0 +1,61 @@
+.cerinta {
+    border-right: 5px solid #198754;
+}
+
+.row {
+ border-top: 10px solid #198754;
+ margin-top: 20px;
+ padding-top: 20px;
+}
+
+.main {
+    margin-top: 25px;
+    background-color: #F8F2F1;
+    margin-bottom: 25px;
+    box-shadow: 0px 2px 10px rgba(0,0,0,0.75);
+    border-radius: 10px;
+    padding-bottom: 50px;
+}
+
+.lista{
+    position: absolute;
+    left: 0px;
+    top: 20px;
+}
+
+.card {
+    margin-top: 5px;
+    box-shadow: 0px 2px 10px rgba(0,0,0,0.75);
+    margin-bottom: 15px;
+    margin-right: 20px;
+}
+
+.card-body {
+    background-color:#F8F2F1;;
+}
+
+video {
+    margin-top: 50px;
+}
+
+.comentarii {
+    position: absolute;
+    right: 0px;
+    top: 20px;
+}
+
+.modal-content {
+    height: 75%;
+}
+
+textarea.form-control{
+    height: 100px;
+}
+
+.comentarii h4, .comentarii p{
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+
+

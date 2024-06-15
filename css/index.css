@@ -1,0 +1,39 @@
+
+body {
+    background-image: url("../imagini/background.jpg");
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+}
+
+.main {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    overflow: hidden;
+}
+
+.link {
+    margin-top : 20px;
+    overflow: hidden;
+    width: 0px;
+    visibility: hidden;
+    transition: width 3s;
+}
+
+h1 {
+    border-bottom: 10px solid white;
+    padding: 10px;
+    overflow: hidden;
+}
+
+.social {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+
+.btn{
+    border: 0px;
+}
+
